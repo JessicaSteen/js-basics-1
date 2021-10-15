@@ -4,10 +4,12 @@
 //CODE HERE 
 var myName = "Jessica"
 console.log(myName)
+
 //////////////////PROBLEM 2////////////////////
 /* Create a variable called 'faveNum' with a value that is your favorite number. */
 
 //CODE HERE
+var faveNum = 8
 
 //////////////////PROBLEM 3////////////////////
 /* Create a variable called 'lovesCode' and assign it a boolean value. */
