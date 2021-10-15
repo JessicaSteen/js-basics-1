@@ -16,10 +16,20 @@
 console.log ("Planning");
 console.log ("Analysis of Requirements");
 console.log ("Design"); 
-console.log ("Implmentation"); 
+console.log ("Implementation"); 
 console.log ("Testing and Integration"); 
 console.log ("Maintain")
+
 //////////////////PROBLEM 2////////////////////
 /*
-    Create a variable for each of the above steps of the Software Development Lifecycle and set the values of each variable to a definition of the step.
+    Create a variable for each of the above steps of the Software Development Lifecycle 
+    and set the values of each variable to a definition of the step.
 */
+
+var planning = "coming up with an idea"
+var analysisOfRequirements = "defines expecations for new software being built"
+var design = "creating software intended to acccomplish goals"
+var implementation = "programing code"
+var testingAndIntegration = "testing code"
+var maintain = "modify, update and improve"
+
