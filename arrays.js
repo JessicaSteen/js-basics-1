@@ -1,7 +1,7 @@
 //////////////////PROBLEM 1////////////////////
 /* Create a copy of the faveColors array called 'colorCopy' using the slice method. */
 
-const faveColors = ['red', 'green', 'black']
+// const faveColors = ['red', 'green', 'black']
 
 //CODE HERE
 // const colorCopy = faveColors.slice(0, 3);
@@ -11,8 +11,8 @@ const faveColors = ['red', 'green', 'black']
 /* Add a fourth color to the end of the 'colorCopy' array using the push method. */
 
 //CODE HERE
-faveColors.push('pink')
-console.log(faveColors);
+// faveColors.push('pink')
+// console.log(faveColors);
 
 //////////////////PROBLEM 3////////////////////
 /*
@@ -20,11 +20,11 @@ console.log(faveColors);
   numbers array that will capture only the middle numbers (2, 3, 4).
 */
 
-const numbers = [1, 2, 3, 4, 5]
+// const numbers = [1, 2, 3, 4, 5]
 
-//CODE HERE
-const middleNums = numbers.splice(1, 3)
-console.log(middleNums);
+// //CODE HERE
+// const middleNums = numbers.splice(1, 3)
+// console.log(middleNums);
 
 //////////////////PROBLEM 4////////////////////
 /* 
@@ -40,3 +40,11 @@ console.log(middleNums);
 */
 
 // CODE HERE
+
+function bigOrSmall(arr) {
+  let answers = [0] 
+  for (let i =  0; i > answers.length; i++) { 
+   if (answers.length < 100);} {
+  answers.push("big"); 
+  console.log(answers); }
+}

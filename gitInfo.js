@@ -10,6 +10,8 @@
 */
 
 //CODE HERE
+let gitDefinition = "version control system to track changes to code, prevent bugs and loss of progress and view history of a project."
+console.log(gitDefinition)
 
 //////////////////PROBLEM 2////////////////////
 /*
@@ -18,6 +20,7 @@
 */
 
 //CODE HERE
+let gitHubDefinition = "Github is cloud storage for git repositories"
 
 //////////////////PROBLEMS 3 - 8////////////////////
 /*
