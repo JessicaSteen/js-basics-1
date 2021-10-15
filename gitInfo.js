@@ -38,9 +38,9 @@ let gitHubDefinition = "Github is cloud storage for git repositories"
 
 //CODE HERE
 
-const init = {description:"initalize a local repository right here in this folder", code:"git init"}
+// const init = {description:"initalize a local repository right here in this folder", code:"git init"}
 
-console.log(init.description);
+// console.log(init.description);
 //////////////////PROBLEM 4////////////////////
 /*
     Create an object called 'clone' with 'description' and 'code' properties 
@@ -48,7 +48,8 @@ console.log(init.description);
 */
 
 //CODE HERE
-
+const clone = {description:"make copy of repo to new directory", code:"git clone"}
+console.log(clone.code);
 //////////////////PROBLEM 5////////////////////
 /*
     Create an object called 'status' with 'description' and 'code' properties 
@@ -56,7 +57,7 @@ console.log(init.description);
 */
 
 //CODE HERE
-
+const status = {description:"tells you about repo", code:"git status"}
 //////////////////PROBLEM 6////////////////////
 /*
     Create an object called 'add' with 'description' and 'code' properties 
