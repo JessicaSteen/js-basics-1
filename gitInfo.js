@@ -66,6 +66,7 @@ const status = {description:"tells you about repo", code:"git status"}
 
 //CODE HERE
 const add = {description:"add some files to be tracked", code:"git add ."}
+console.log(add.code)
 //////////////////PROBLEM 7////////////////////
 /*
     Create an object called 'commit' with 'description' and 'code' properties
@@ -74,7 +75,8 @@ const add = {description:"add some files to be tracked", code:"git add ."}
 
 //CODE HERE
 
-
+const commit = {description:"creates snapshot of files youre tracking", code:"git commit -m"}
+console.log(commit.description)
 //////////////////PROBLEM 8////////////////////
 /*
     Create an object called 'push' with 'description' and 'code' properties 
@@ -82,3 +84,4 @@ const add = {description:"add some files to be tracked", code:"git add ."}
 */
 
 //CODE HERE
+const push ={description:"sends git repo to Github", code:"git push"}
