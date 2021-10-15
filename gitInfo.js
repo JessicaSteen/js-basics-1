@@ -38,6 +38,9 @@ let gitHubDefinition = "Github is cloud storage for git repositories"
 
 //CODE HERE
 
+const init = {description:"initalize a local repository right here in this folder", code:"git init"}
+
+console.log(init.description);
 //////////////////PROBLEM 4////////////////////
 /*
     Create an object called 'clone' with 'description' and 'code' properties 
