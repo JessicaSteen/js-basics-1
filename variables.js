@@ -15,6 +15,7 @@ var faveNum = 8
 /* Create a variable called 'lovesCode' and assign it a boolean value. */
 
 //CODE HERE
+let lovesCode = true;
 
 //////////////////PROBLEM 4////////////////////
 /*
